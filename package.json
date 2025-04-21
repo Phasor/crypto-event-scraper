@@ -1,0 +1,13 @@
+{
+    "name": "crypto-event-scraper",
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "start": "node scraper.js"
+    },
+    "dependencies": {
+      "axios": "^1.6.0",
+      "playwright": "^1.42.0"
+    }
+  }
+  
